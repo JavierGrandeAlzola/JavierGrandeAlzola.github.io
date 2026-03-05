@@ -45,7 +45,7 @@ slides:
 
 <!-- no-branding -->
 # Example Talk
-### Dr. Alex Johnson · Meta AI
+### Javier Grande Alzola · Estudiante de Ingeniería Electrónica, Robótica y Mecatrónica
 
 ---
 
