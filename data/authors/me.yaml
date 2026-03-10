@@ -46,27 +46,45 @@ interests:
 education:
   courses:
     - course: B.Sc. in Electronics, Robotics and Mechatronics Engineering
-      institution: University of [Nombre de tu ciudad/universidad] # <-- ¡Cambia esto por tu universidad!
+      institution: University of Seville - ETSI # <-- ¡Cambia esto por tu universidad!
       date_start: '7-9-2022' # <-- Pon el año en el que empezaste
-      date_end: ''
+      date_end: Present
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Software
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - name: C/C++ (Microcontrollers)
+        description: ''
+        percent: 80
+        icon: code
+        icon_pack: fas
+      - name: Python & ROS
+        description: ''
+        percent: 75
+        icon: python
+        icon_pack: fab
+      - name: MATLAB / Simulink
+        description: ''
+        percent: 70
+        icon: chart-line
+        icon_pack: fas
+  - name: Hardware & Engineering
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - name: PCB Design (KiCad/Altium)
+        description: ''
+        percent: 85
+        icon: microchip
+        icon_pack: fas
+      - name: Control Systems & Automation
+        description: ''
+        percent: 90
+        icon: cogs
+        icon_pack: fas
+      - name: 3D CAD (SolidWorks/Fusion360)
+        description: ''
+        percent: 65
+        icon: cubes
+        icon_pack: fas
 
 languages:
   - name: Spanish
@@ -75,10 +93,3 @@ languages:
   - name: English
     level: 4
     label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
