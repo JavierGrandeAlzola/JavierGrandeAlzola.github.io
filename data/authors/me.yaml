@@ -44,11 +44,10 @@ interests:
   - Hardware Design (PCB)
 
 education:
-  courses:
-    - course: B.Sc. in Electronics, Robotics and Mechatronics Engineering
-      institution: University of Seville - ETSI # <-- ¡Cambia esto por tu universidad!
-      date_start: '7-9-2022' # <-- Pon el año en el que empezaste
-      date_end: Present
+  - degree: B.Sc. in Electronics, Robotics and Mechatronics Engineering
+    institution: University of Seville - ETSI # <-- ¡Cambia esto por tu universidad!
+    start: '7-9-2022' # <-- Pon el año en el que empezaste
+    end: Present
 
 skills:
   - name: Programming & Software
