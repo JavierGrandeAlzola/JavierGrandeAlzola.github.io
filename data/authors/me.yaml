@@ -13,13 +13,11 @@ postnominals:
   - MIEEE
 status:
   icon: ":P"
-role: Estudiante Ingeniería Electrónica, Robótica y Mecatrónica
+role: Electronics, Robotics and Mechatronics Engineering Student
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  Passionate engineering student specializing in hardware design, industrial automation, 
+  and control systems. Driven by curiosity and the desire to build innovative technical 
+  solutions.
 #affiliations:  #Todavia no estoy afiliado a ninguna organizacion
 #  - name: 
 #    url: 
@@ -40,47 +38,17 @@ links:
   #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Robotics & Control Systems
+  - Industrial Automation
+  - Microcontroller Programming
+  - Hardware Design (PCB)
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
-experience:
-  - role: Estudiante Ingeniería Electrónica, Robótica y Mecatrónica
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  courses:
+    - course: B.Sc. in Electronics, Robotics and Mechatronics Engineering
+      institution: University of [Nombre de tu ciudad/universidad] # <-- ¡Cambia esto por tu universidad!
+      date_start: '7-9-2022' # <-- Pon el año en el que empezaste
+      date_end: ''
 
 skills:
   - name: Technical Skills
