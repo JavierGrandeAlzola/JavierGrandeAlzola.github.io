@@ -4,15 +4,18 @@ date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Selected Engineering Projects
+      text: |-
+        A selection of academic and personal engineering projects focused on electronics,
+        robotics, embedded systems, digital design and control.
+
+        These projects reflect my practical experience with microcontrollers, sensors,
+        actuators, VHDL, control systems and system-level integration.
       filters:
         folders:
           - projects
@@ -22,5 +25,5 @@ sections:
       columns: 3
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---
