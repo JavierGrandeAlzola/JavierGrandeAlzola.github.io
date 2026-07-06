@@ -1,71 +1,68 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
   display: Javier Grande Alzola
   given: Javier
   family: Grande Alzola
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  alternate: ''
+
+pronouns: ''
+postnominals: []
+
 status:
-  icon: ":P"
+  icon: ""
+
 role: Electronics, Robotics and Mechatronics Engineering Student
+
 bio: |
-  Passionate engineering student specializing in hardware design, industrial automation, 
-  and control systems. Driven by curiosity and the desire to build innovative technical 
-  solutions.
-#affiliations:  #Todavia no estoy afiliado a ninguna organizacion
-#  - name: 
-#    url: 
+  Engineering student at the University of Seville, focused on electronics, robotics,
+  embedded systems, control, and industrial automation.
+
+  I am especially interested in practical engineering projects involving microcontrollers,
+  hardware design, sensors, actuators, digital systems, and applied robotics.
 
 links:
   - icon: at-symbol
     url: mailto:javiergrandealzola@gmail.com
     label: E-mail Me
-  #- icon: brands/x    #no X
-  #  url: https://x.com/example
   - icon: brands/github
     url: https://github.com/JavierGrandeAlzola
-  #- icon: brands/linkedin    #no linkedin or google scholar or orcid
-  #  url: https://www.linkedin.com/in/example/
-  #- icon: academicons/google-scholar
-  #  url: https://scholar.google.com/citations?user=example
-  #- icon: academicons/orcid
-  #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Robotics & Control Systems
+  - Embedded Systems
+  - Robotics and Control Systems
   - Industrial Automation
   - Microcontroller Programming
-  - Hardware Design (PCB)
+  - Hardware Design and PCB
+  - Power Electronics
 
 education:
-  - degree: Electronics, Robotics and Mechatronics Engineering
-    institution: University of Seville - ETSI # <-- ¡Cambia esto por tu universidad!
-    start: '7-9-2022' # <-- Pon el año en el que empezaste
+  - degree: BSc in Electronics, Robotics and Mechatronics Engineering
+    institution: University of Seville - School of Engineering
+    start: '2022'
     end: Present
 
 skills:
-  - name: Programming & Software
+  - name: Programming and Software
     items:
-      - label: C/C++ (Microcontrollers)
+      - label: C/C++ for Microcontrollers
         level: 4
-      - label: Python & ROS
-        level: 2
       - label: MATLAB / Simulink
         level: 4
-  - name: Hardware & Engineering
-    items:
-      - label: PCB Design (KiCad/Altium)
-        level: 2
-      - label: Control Systems & Automation
-        level: 4
-      - label: 3D CAD (SolidWorks/Fusion360)
+      - label: VHDL
         level: 3
+
+  - name: Hardware and Engineering
+    items:
+      - label: Embedded Systems
+        level: 4
+      - label: Control Systems and Automation
+        level: 4
+      - label: Electronics
+        level: 4
+
 
 languages:
   - name: Spanish
